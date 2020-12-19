@@ -1,0 +1,314 @@
+{
+    "products": [
+        {
+            "name": "Aqua Lung Sport Smartsnorkel Combo",
+            "imgLocation": "/images/snorkel-combos/Aqua-Lung-Sport-Smartsnorkel-Combo.jfif",
+            "category": "snorkel-combos",
+            "gender": "Unisex",
+            "brand": "Aqua Lungs",
+            "price": "$29.99",
+            "color": "blue",
+            "delete": "false"
+        },
+        {
+            "name": "US Divers Dorado II Kids Snorkel Combo",
+            "imgLocation": "/images/snorkel-combos/US-Divers-Dorado-II-Kids-Snorkel-Combo.jfif",
+            "category": "snorkel-combos",
+            "gender": "Kids",
+            "brand": "US Divers",
+            "price": "$46.99",
+            "color": "red",
+            "delete": "false"
+        },
+        {
+            "name": "US Divers Lux Purge Snorkel Combo With GoPro",
+            "imgLocation": "/images/snorkel-combos/US-Divers-Lux-Purge-Snorkel-Combo-With-GoPro.jfif",
+            "category": "snorkel-combos",
+            "gender": "Unisex",
+            "brand": "US Divers",
+            "price": "$32.99",
+            "color": "black",
+            "delete": "false"
+        },
+        {
+            "name": "US Divers Womens Diva II LX Snorkel Combo",
+            "imgLocation": "/images/snorkel-combos/US-Divers-Womens-Diva-II-LX-Snorkel-Combo.jfif",
+            "category": "snorkel-combos",
+            "gender": "Women",
+            "brand": "US Divers",
+            "price": "$44.99",
+            "color": "red",
+            "delete": "false"
+        },
+        {
+            "name": "Aqua Lung Sport Trek Travel Fins",
+            "imgLocation": "/images/snorkel-dive-fin/Aqua-Lung-Sport-Trek-Travel-Fins.jfif",
+            "category": "snorkel-dive-fin",
+            "gender": "Unisex",
+            "brand": "Aqua Lungs",
+            "price": "$59.99",
+            "color": "blue",
+            "delete": "false"
+        },
+        {
+            "name": "US Divers Proflex Oh Jr Fin",
+            "imgLocation": "/images/snorkel-dive-fin/US-Dicers-Proflex-Oh-Jr-Fin.jfif",
+            "category": "snorkel-dive-fin",
+            "gender": "Unisex",
+            "brand": "US Divers",
+            "price": "$50.99",
+            "color": "blue",
+            "delete": "false"
+        },
+        {
+            "name": "US Divers Proflex FX Fin",
+            "imgLocation": "/images/snorkel-dive-fin/US-Divers-Proflex-FX-Fin.jfif",
+            "category": "snorkel-dive-fin",
+            "gender": "Unisex",
+            "brand": "US Divers",
+            "price": "$78.99",
+            "color": "black",
+            "delete": "false"
+        },
+        {
+            "name": "US Divers Proflex FX Fins",
+            "imgLocation": "/images/snorkel-dive-fin/US-Divers-Proflex-Fx-Fins.jfif",
+            "category": "snorkel-dive-fin",
+            "gender": "Unisex",
+            "brand": "US Divers",
+            "price": "$98.99",
+            "color": "black",
+            "delete": "false"
+        },
+        {
+            "name": "US Divers Proflex II Open Heel Jr Fins",
+            "imgLocation": "/images/snorkel-dive-fin/US-Divers-Proflex-II-Open-Heel-Jr-Fins.jfif",
+            "category": "snorkel-dive-fin",
+            "gender": "Unisex",
+            "brand": "US Divers",
+            "price": "$129.99",
+            "color": "black",
+            "delete": "false"
+        },
+        {
+            "name": "US Divers Trek Travel Fin",
+            "imgLocation": "/images/snorkel-dive-fin/US-Divers-Trek-Travel-Fin.jfif",
+            "category": "snorkel-dive-fin",
+            "gender": "Unisex",
+            "brand": "US Divers",
+            "price": "$33.99",
+            "color": "black",
+            "delete": "false"
+        },
+        {
+            "name": "Aqua Lung Sport Cub Kid Mask Goggles",
+            "imgLocation": "/images/snorkel-mask/Aqua-Lung-Sport-Cub-Kid-Mask-Goggles.jfif",
+            "category": "snorkel-mask",
+            "gender": "Kids",
+            "brand": "Aqua Lungs",
+            "price": "$37.99",
+            "color": "white",
+            "delete": "false"
+        },
+        {
+            "name": "Aqua Lung Sport Hawkeye LX Adult Silicone Goggles",
+            "imgLocation": "/images/snorkel-mask/Aqua-Lung-Sport-Hawkeye-LX-Adult-Silicone-Goggles.jfif",
+            "category": "snorkel-mask",
+            "gender": "Unisex",
+            "brand": "Aqua Lungs",
+            "price": "$45.99",
+            "color": "white",
+            "delete": "false"
+        },
+        {
+            "name": "Aqua Lung Sport Smart Snorkel Mask",
+            "imgLocation": "/images/snorkel-mask/Aqua-Lung-Sport-Smart-Snorkel-Mask.jfif",
+            "category": "snorkel-mask",
+            "gender": "Unisex",
+            "brand": "Aqua Lungs",
+            "price": "$66.99",
+            "color": "green",
+            "delete": "false"
+        },
+        {
+            "name": "Aqua Lung Sport Urchin Jr Combo Mask Goggles",
+            "imgLocation": "/images/snorkel-mask/Aqua-Lung-Sport-Urchin-Jr-Combo-Mask-Goggles.jfif",
+            "category": "snorkel-mask",
+            "gender": "Kids",
+            "brand": "Aqua Lungs",
+            "price": "$36.99",
+            "color": "red",
+            "delete": "false"
+        },
+        {
+            "name": "Aqua Lung Sport Womens Bonita Lx Ladies Silicone Mask Goggles",
+            "imgLocation": "/images/snorkel-mask/Aqua-Lung-Sport-Womens-Bonita-Lx-Ladies-Silicone-Mask-Goggles.jfif",
+            "category": "snorkel-mask",
+            "gender": "Women",
+            "brand": "Aqua Lungs",
+            "price": "$39.99",
+            "color": "black",
+            "delete": "false"
+        },
+        {
+            "name": "Wildhorn Seaview 180 V2 Full Face Snorkel Mask",
+            "imgLocation": "/images/snorkel-mask/Wildhorn-Seaview-180-V2-Full-Face-Snorkel-mask.jfif",
+            "category": "snorkel-mask",
+            "gender": "Unisex",
+            "brand": "Wildhorn",
+            "price": "$30.99",
+            "color": "black",
+            "delete": "false"
+        },
+        {
+            "name": "Aqua Lung Sport Trooper LX Silicone Snorkel Set",
+            "imgLocation": "/images/snorkel-sets/Aqua-Lung-Sport-Trooper-LX-Silicone-Snorkel-Set.jfif",
+            "category": "snorkel-sets",
+            "gender": "Unisex",
+            "brand": "Aqua Lungs",
+            "price": "$109.99",
+            "color": "black",
+            "delete": "false"
+        },
+        {
+            "name": "US Divers Admiral II LX Dry Snorkel Set",
+            "imgLocation": "/images/snorkel-sets/US-Divers-Admiral-II-LX-Dry-Snorkel-Set.jfif",
+            "category": "snorkel-sets",
+            "gender": "Unisex",
+            "brand": "US Divers",
+            "price": "$119.99",
+            "color": "black",
+            "delete": "false"
+        },
+        {
+            "name": "US Divers Admiral LX Snorkel Set",
+            "imgLocation": "/images/snorkel-sets/US-Divers-Admiral-LX-Snorkel-Set.jfif",
+            "category": "snorkel-sets",
+            "gender": "Unisex",
+            "brand": "US Divers",
+            "price": "$129.99",
+            "color": "black",
+            "delete": "false"
+        },
+        {
+            "name": "Aqua Lung Versa Combo Mask Ans Snorkel",
+            "imgLocation": "/images/swim-goggles-mask/Aqua-Lung-Versa-Combo-Mask-Ans-Snorkel.jfif",
+            "category": "swim-goggles-mask",
+            "gender": "Unisex",
+            "brand": "Aqua Lungs",
+            "price": "$49.99",
+            "color": "green",
+            "delete": "false"
+        },
+        {
+            "name": "Aqua Lung Versa Swim Mask",
+            "imgLocation": "/images/swim-goggles-mask/Aqua-Lung-Versa-Swim-Mask.jfif",
+            "category": "swim-goggles-mask",
+            "gender": "Unisex",
+            "brand": "Aqua Lungs",
+            "price": "$59.99",
+            "color": "green",
+            "delete": "false"
+        },
+        {
+            "name": "Aqua Sphere Mens Vista Swim Mask",
+            "imgLocation": "/images/swim-goggles-mask/Aqua-Spehere-Mens-Vista-Swim-Mask.jfif",
+            "category": "swim-goggles-mask",
+            "gender": "Unisex",
+            "brand": "Aqua Sphere",
+            "price": "$69.99",
+            "color": "white",
+            "delete": "false"
+        },
+        {
+            "name": "Aqua Sphere Kids Seal Kids 2 Swim Mask",
+            "imgLocation": "/images/swim-goggles-mask/Aqua-Sphere-Kids-Seal-Kids-2-Swim-Mask.jfif",
+            "category": "swim-goggles-mask",
+            "gender": "Kids",
+            "brand": "Aqua Sphere",
+            "price": "$59.99",
+            "color": "blue",
+            "delete": "false"
+        },
+        {
+            "name": "Aqua Sphere Kids Vista Jr Swim Mask",
+            "imgLocation": "/images/swim-goggles-mask/Aqua-Sphere-Kids-Vista-Jr-Swim-Mask.jfif",
+            "category": "swim-goggles-mask",
+            "gender": "Kids",
+            "brand": "Aqua Sphere",
+            "price": "$59.99",
+            "color": "blue",
+            "delete": "false"
+        },
+        {
+            "name": "Aqua Sphere Mens Visa Pro Swim Mask",
+            "imgLocation": "/images/swim-goggles-mask/Aqua-Sphere-Mens-Visa-Pro-Swim-Mask.jfif",
+            "category": "swim-goggles-mask",
+            "gender": "Men",
+            "brand": "Aqua Sphere",
+            "price": "$69.99",
+            "color": "white",
+            "delete": "false"
+        },
+        {
+            "name": "Aqua Sphere Seal 2.0 Swim Mask",
+            "imgLocation": "/images/swim-goggles-mask/Aqua-Sphere-Seal-2.0-Swim-Mask.jfif",
+            "category": "swim-goggles-mask",
+            "gender": "Unisex",
+            "brand": "Aqua Sphere",
+            "price": "$79.99",
+            "color": "black",
+            "delete": "false"
+        },
+        {
+            "name": "Aqua Sphere Women Vista Lady Swim Mask",
+            "imgLocation": "/images/swim-goggles-mask/Aqua-Sphere-Women-Vista-Lady-Swim-Mask.jfif",
+            "category": "swim-goggles-mask",
+            "gender": "Women",
+            "brand": "Aqua Sphere",
+            "price": "$99.99",
+            "color": "white",
+            "delete": "false"
+        },
+        {
+            "name": "Phelps K180 Goggles",
+            "imgLocation": "/images/swim-goggles-mask/Phelps-K180-Goggles.jfif",
+            "category": "swim-goggles-mask",
+            "gender": "Unisex",
+            "brand": "Phelps",
+            "price": "$59.99",
+            "color": "black",
+            "delete": "false"
+        },
+        {
+            "name": "Phelps Men's Ninja Competition Goggles",
+            "imgLocation": "/images/swim-goggles-mask/Phelps-Men's-Ninja-Competition-Goggles.jfif",
+            "category": "swim-goggles-mask",
+            "gender": "Men",
+            "brand": "Phelps",
+            "price": "$29.99",
+            "color": "green",
+            "delete": "false"
+        },
+        {
+            "name": "TYR Special Ops 3.0 Goggles",
+            "imgLocation": "/images/swim-goggles-mask/TYR-Special-Ops-3.0-Goggles.jfif",
+            "category": "swim-goggles-mask",
+            "gender": "Unisex",
+            "brand": "TYR",
+            "price": "$34.99",
+            "color": "black",
+            "delete": "false"
+        },
+        {
+            "name": "TYR Vesi Adult Goggles",
+            "imgLocation": "/images/swim-goggles-mask/TYR-Vesi-Adult-Goggles.jfif",
+            "category": "swim-goggles-mask",
+            "gender": "Unisex",
+            "brand": "TYR",
+            "price": "$59.99",
+            "color": "white",
+            "delete": "false"
+        }
+    ]
+}
