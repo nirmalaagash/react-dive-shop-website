@@ -1,16 +1,14 @@
-import Header from './components/Header.js';
-import Footer from './components/footer/Footer.js'
+import React from "react";
+import ProductPage from "./components/pages/ProductPage";
 
-function App() {
-  return (
-    <div style={{ "height": "100 %" }}>
-      <Header class="row" />
-      <main class="container">
 
-      </main>
-      <Footer class="row" />
-    </div>
-  );
+class App extends React.Component {
+
+  render() {
+    return (
+      <ProductPage />
+    );
+  }
 }
 
 export default App;

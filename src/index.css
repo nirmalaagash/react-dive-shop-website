@@ -5,18 +5,28 @@ html {
   box-sizing: border-box;
 }
 
+* {
+  box-sizing: border-box;
+ }
+
+*:before,
+*:after {
+ box-sizing: border-box;
+}
+
 body, #root{
-  height: 100vh;
-  margin: 0;
+  height: 100%;
+  margin: 0px;
 }
 
 footer{
-  grid-area: footer;
   background-color: black;
   color: white;
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 1em;
+  font-weight: bold;
 }
 
 .navbar{
@@ -27,8 +37,73 @@ footer{
   width: 100%;
 }
 
+.fill{
+  min-height: 100vh;
+  height: 100%;
+}
+
 .website-name{
   font-family: 'Henny Penny', cursive;
   font-size: 2em;
   color: red;
+}
+
+
+/* Products */
+
+.products{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.products li {
+  flex: 0 1 15rem;
+  padding: 1rem;
+  margin: 1rem;
+  height: 25rem;
+  border: black;
+  border-style: solid;
+}
+
+.product {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.product a{
+  color: black;
+}
+
+.product img{
+  height: 15rem;
+  width: 15rem;
+}
+
+
+.product-price{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.product-price div{
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.product-price div,
+.product-price button {
+  text-align: center;
+}
+
+.btn {
+  font-size: 1.2em;
+  background-color: brown;
+  color: white;
 }
