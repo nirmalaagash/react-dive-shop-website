@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Filter from '../Filter'
+import Filter from '../filter/Filter'
 
 export default class Product extends Component {
 
@@ -96,7 +96,7 @@ export default class Product extends Component {
                                             <div>
                                                 {product.price}
                                             </div>
-                                            <button className="btn btn-primary">Add to Cart</button>
+                                            <button className="btn btn-primary" onClick={() => this.props.addToCart(product)}>Add to Cart</button>
                                         </div>
                                     </div>
                                 </li>
