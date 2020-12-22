@@ -6,8 +6,8 @@ import Product from '../product/Product';
 
 export default class ProductPage extends Component {
 
-    constructor() {
-        super();
+    constructor(props) {
+        super(props);
         this.state = {
             products: data.products,
         };
@@ -18,7 +18,7 @@ export default class ProductPage extends Component {
         return (
             <div className="container fill">
                 <Header className="row" />
-                <Product products={this.state.products} />
+                <Product products={this.state.products} addToCart={this.props.addToCart} />
                 <Footer className="row" />
             </div>
         )
