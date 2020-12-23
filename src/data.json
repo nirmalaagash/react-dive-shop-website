@@ -6,7 +6,7 @@
             "category": "snorkel-combos",
             "gender": "Unisex",
             "brand": "Aqua Lungs",
-            "price": "$29.99",
+            "price": 29.99,
             "color": "blue",
             "delete": "false"
         },
@@ -16,7 +16,7 @@
             "category": "snorkel-combos",
             "gender": "Kids",
             "brand": "US Divers",
-            "price": "$46.99",
+            "price": 46.99,
             "color": "red",
             "delete": "false"
         },
@@ -26,7 +26,7 @@
             "category": "snorkel-combos",
             "gender": "Unisex",
             "brand": "US Divers",
-            "price": "$32.99",
+            "price": 32.99,
             "color": "black",
             "delete": "false"
         },
@@ -36,7 +36,7 @@
             "category": "snorkel-combos",
             "gender": "Women",
             "brand": "US Divers",
-            "price": "$44.99",
+            "price": 44.99,
             "color": "red",
             "delete": "false"
         },
@@ -46,7 +46,7 @@
             "category": "snorkel-dive-fin",
             "gender": "Unisex",
             "brand": "Aqua Lungs",
-            "price": "$59.99",
+            "price": 59.99,
             "color": "blue",
             "delete": "false"
         },
@@ -56,7 +56,7 @@
             "category": "snorkel-dive-fin",
             "gender": "Unisex",
             "brand": "US Divers",
-            "price": "$50.99",
+            "price": 50.99,
             "color": "blue",
             "delete": "false"
         },
@@ -66,7 +66,7 @@
             "category": "snorkel-dive-fin",
             "gender": "Unisex",
             "brand": "US Divers",
-            "price": "$78.99",
+            "price": 78.99,
             "color": "black",
             "delete": "false"
         },
@@ -76,7 +76,7 @@
             "category": "snorkel-dive-fin",
             "gender": "Unisex",
             "brand": "US Divers",
-            "price": "$98.99",
+            "price": 98.99,
             "color": "black",
             "delete": "false"
         },
@@ -86,7 +86,7 @@
             "category": "snorkel-dive-fin",
             "gender": "Unisex",
             "brand": "US Divers",
-            "price": "$129.99",
+            "price": 129.99,
             "color": "black",
             "delete": "false"
         },
@@ -96,7 +96,7 @@
             "category": "snorkel-dive-fin",
             "gender": "Unisex",
             "brand": "US Divers",
-            "price": "$33.99",
+            "price": 33.99,
             "color": "black",
             "delete": "false"
         },
@@ -106,7 +106,7 @@
             "category": "snorkel-mask",
             "gender": "Kids",
             "brand": "Aqua Lungs",
-            "price": "$37.99",
+            "price": 37.99,
             "color": "white",
             "delete": "false"
         },
@@ -116,7 +116,7 @@
             "category": "snorkel-mask",
             "gender": "Unisex",
             "brand": "Aqua Lungs",
-            "price": "$45.99",
+            "price": 45.99,
             "color": "white",
             "delete": "false"
         },
@@ -126,7 +126,7 @@
             "category": "snorkel-mask",
             "gender": "Unisex",
             "brand": "Aqua Lungs",
-            "price": "$66.99",
+            "price": 66.99,
             "color": "green",
             "delete": "false"
         },
@@ -136,7 +136,7 @@
             "category": "snorkel-mask",
             "gender": "Kids",
             "brand": "Aqua Lungs",
-            "price": "$36.99",
+            "price": 36.99,
             "color": "red",
             "delete": "false"
         },
@@ -146,7 +146,7 @@
             "category": "snorkel-mask",
             "gender": "Women",
             "brand": "Aqua Lungs",
-            "price": "$39.99",
+            "price": 39.99,
             "color": "black",
             "delete": "false"
         },
@@ -156,7 +156,7 @@
             "category": "snorkel-mask",
             "gender": "Unisex",
             "brand": "Wildhorn",
-            "price": "$30.99",
+            "price": 30.99,
             "color": "black",
             "delete": "false"
         },
@@ -166,7 +166,7 @@
             "category": "snorkel-sets",
             "gender": "Unisex",
             "brand": "Aqua Lungs",
-            "price": "$109.99",
+            "price": 109.99,
             "color": "black",
             "delete": "false"
         },
@@ -176,7 +176,7 @@
             "category": "snorkel-sets",
             "gender": "Unisex",
             "brand": "US Divers",
-            "price": "$119.99",
+            "price": 119.99,
             "color": "black",
             "delete": "false"
         },
@@ -186,7 +186,7 @@
             "category": "snorkel-sets",
             "gender": "Unisex",
             "brand": "US Divers",
-            "price": "$129.99",
+            "price": 129.99,
             "color": "black",
             "delete": "false"
         },
@@ -196,7 +196,7 @@
             "category": "swim-goggles-mask",
             "gender": "Unisex",
             "brand": "Aqua Lungs",
-            "price": "$49.99",
+            "price": 49.99,
             "color": "green",
             "delete": "false"
         },
@@ -206,7 +206,7 @@
             "category": "swim-goggles-mask",
             "gender": "Unisex",
             "brand": "Aqua Lungs",
-            "price": "$59.99",
+            "price": 59.99,
             "color": "green",
             "delete": "false"
         },
@@ -216,7 +216,7 @@
             "category": "swim-goggles-mask",
             "gender": "Unisex",
             "brand": "Aqua Sphere",
-            "price": "$69.99",
+            "price": 69.99,
             "color": "white",
             "delete": "false"
         },
@@ -226,7 +226,7 @@
             "category": "swim-goggles-mask",
             "gender": "Kids",
             "brand": "Aqua Sphere",
-            "price": "$59.99",
+            "price": 59.99,
             "color": "blue",
             "delete": "false"
         },
@@ -236,7 +236,7 @@
             "category": "swim-goggles-mask",
             "gender": "Kids",
             "brand": "Aqua Sphere",
-            "price": "$59.99",
+            "price": 59.99,
             "color": "blue",
             "delete": "false"
         },
@@ -246,7 +246,7 @@
             "category": "swim-goggles-mask",
             "gender": "Men",
             "brand": "Aqua Sphere",
-            "price": "$69.99",
+            "price": 69.99,
             "color": "white",
             "delete": "false"
         },
@@ -256,7 +256,7 @@
             "category": "swim-goggles-mask",
             "gender": "Unisex",
             "brand": "Aqua Sphere",
-            "price": "$79.99",
+            "price": 79.99,
             "color": "black",
             "delete": "false"
         },
@@ -266,7 +266,7 @@
             "category": "swim-goggles-mask",
             "gender": "Women",
             "brand": "Aqua Sphere",
-            "price": "$99.99",
+            "price": 99.99,
             "color": "white",
             "delete": "false"
         },
@@ -276,7 +276,7 @@
             "category": "swim-goggles-mask",
             "gender": "Unisex",
             "brand": "Phelps",
-            "price": "$59.99",
+            "price": 59.99,
             "color": "black",
             "delete": "false"
         },
@@ -286,7 +286,7 @@
             "category": "swim-goggles-mask",
             "gender": "Men",
             "brand": "Phelps",
-            "price": "$29.99",
+            "price": 29.99,
             "color": "green",
             "delete": "false"
         },
@@ -296,7 +296,7 @@
             "category": "swim-goggles-mask",
             "gender": "Unisex",
             "brand": "TYR",
-            "price": "$34.99",
+            "price": 34.99,
             "color": "black",
             "delete": "false"
         },
@@ -306,7 +306,7 @@
             "category": "swim-goggles-mask",
             "gender": "Unisex",
             "brand": "TYR",
-            "price": "$59.99",
+            "price": 59.99,
             "color": "white",
             "delete": "false"
         }
