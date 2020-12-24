@@ -3,6 +3,8 @@ import ProductPage from "./components/pages/ProductPage";
 import CartPage from "./components/pages/CartPage";
 import Login from "./components/login/Login";
 import Signup from "./components/login/Signup";
+import { Provider } from "react-redux";
+import store from "./store";
 
 class App extends React.Component {
 
@@ -28,13 +30,14 @@ class App extends React.Component {
 
   render() {
     return (
-      <div>
-        <Login />
-        <Signup />
-        <CartPage />
-        <ProductPage addToCart={this.addToCart} />
-      </div>
-
+      <Provider store={store}>
+        <div>
+          <Login />
+          <Signup />
+          <CartPage />
+          <ProductPage addToCart={this.addToCart} />
+        </div>
+      </Provider>
     );
   }
 }
