@@ -15,7 +15,7 @@ export default class Cart extends Component {
                                 <div className="product-name"><b>{item.product.name}</b></div>
                                 <div className="quantity-price">
                                     <div>Quantity: {item.quantity}</div>
-                                    <div>Price: ${item.quantity * parseFloat(item.product.price.substring(1))}</div>
+                                    <div>Price: ${item.quantity * parseFloat(item.product.price)}</div>
                                     <button className="btn btn-default" onClick={() => this.props.removeItem(item)}>Remove</button>
                                 </div>
 
@@ -24,7 +24,7 @@ export default class Cart extends Component {
                         }
                     </ul>
                 </div>
-                <div className="cart-total">Total: {this.props.cartItems.reduce((sum, item) => sum + item.quantity * parseFloat(item.product.price.substring(1)), 0)}</div>
+                <div className="cart-total">Total: ${this.props.cartItems.reduce((sum, item) => sum + item.quantity * parseFloat(item.product.price), 0)}</div>
             </div >
         )
     }
