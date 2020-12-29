@@ -7,27 +7,21 @@ import { fetchProducts } from "../../actions/productActions"
 
 class ProductPage extends Component {
 
-    constructor(props) {
-        super(props);
-        this.state = {
-            products: null,
-        };
-    }
-
     componentDidMount() {
-        this.props.fetchProducts();
+        if (!this.props.items)
+            this.props.fetchProducts();
     }
 
 
     render() {
         return (
-            <div className="container fill">
+            <div>
                 <Header className="row" />
                 {
-                    !this.props.products ? (
+                    !this.props.items ? (
                         <div className="login-flex">Loading</div>
                     ) : (
-                            <Product products={this.props.products} addToCart={this.props.addToCart} />
+                            <Product />
                         )
                 }
                 <Footer className="row" />
@@ -37,6 +31,6 @@ class ProductPage extends Component {
     }
 }
 
-export default connect((state) => ({ products: state.products.items }), {
+export default connect((state) => ({ items: state.products.items }), {
     fetchProducts,
 })(ProductPage)
